@@ -35,12 +35,12 @@ Out of scope. May or may not graduate to public extractions over time:
 `createNesTriangleWave` and the bell synthesis pattern in `strikeBell` are
 deployed in two pieces on shanecurry.com:
 
-- [Dead Beat](https://shanecurry.com/blog/dead-beat/) — bell tones
+- [Dead Beat](https://shanecurry.com/lab/toys/dead-beat/) — bell tones
   triggered from rhythmic interaction.
-- [Falling Hall](https://shanecurry.com/animation/falling-hall/) —
+- [Falling Hall](https://shanecurry.com/lab/toys/falling-hall/) —
   wall-strike chimes when the player hits the tunnel walls.
 
-[Phosphor](https://shanecurry.com/blog/phosphor/) is a sibling production
+[Phosphor](https://shanecurry.com/lab/toys/phosphor/) is a sibling production
 that uses the browser's native triangle oscillator instead. Phosphor is
 the contrast point in the example below, not a deployment of this
 library.

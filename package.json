@@ -14,7 +14,11 @@
   ],
   "license": "MIT",
   "author": "Shane Curry",
-  "homepage": "https://shanecurry.com/",
+  "homepage": "https://shanecurry.com/lab/tools/chewgum-dsp/",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chewgumlabs/ChewGumDSP.git"
+  },
   "keywords": [
     "web-audio",
     "nes",
