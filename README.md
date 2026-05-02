@@ -1,4 +1,4 @@
-# chewgum-dsp
+# ChewGum DSP
 
 The smallest public ESM extraction of the NES-style triangle-wave generator
 and bell-tone helper used in pieces shipped on shanecurry.com.
